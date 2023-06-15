@@ -1,2 +1,1 @@
-#!/bin/bash
-Init Files Variables and Expansions
+Variables and Expansions
