@@ -1,1 +1,2 @@
-Variables and Expansions
+#!/bin/bash
+Init files, Variables and Expansions
